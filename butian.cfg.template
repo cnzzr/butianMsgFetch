@@ -1,0 +1,12 @@
+[note]
+version = 20210810
+
+[messenger]
+server_chan_enable = true
+server_chan_sckey = 推送精灵的GUID
+
+[butian]
+cookie = btuc_ba52447ea424004a7da412b344e5e41a=改成你的cookie
+lastmsgid = 0
+rank = 0
+
